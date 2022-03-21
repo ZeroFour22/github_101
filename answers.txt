@@ -1,3 +1,31 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Joshua Aponte:
+
+1. Who intvented Git ? Linus Torvalds
+
+2. What else is the person who invented git famous for ? creating Linux OS
+
+3. What year was git invented ? it was invented in 2005
+
+4. What is the git command to initialize a new repository ? Git init
+
+5. In your own words, describe what the command git push is doing. Git push pushes
+   content from a local repo into a remot repo; it helps to transfer commits that way.
+
+6. What is the purpose of a .gitignore file ? The purpose of .gitignore is to not track
+   certain files for various reasons.
+
+7. What is a fork ? why would you want to have a fork ? A fork is a copy of a repository 
+   and commits from its original source and copied to your git account, its also
+   considered helpful for collaborations 
+
+8. What is a clone ? how many clones can you have ? A clone in git is a copy of a repo,
+   you can have several git clones.
+
+9. should you put a github repository inside another github repository ? You should not
+   have a github respository inside another repository.
+
+10. You can type git status at any time in a git respository - true or false ? True.
+    
